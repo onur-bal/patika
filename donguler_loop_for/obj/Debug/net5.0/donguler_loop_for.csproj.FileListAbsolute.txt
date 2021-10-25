@@ -1,0 +1,16 @@
+C:\Users\onurb\patika\donguler_loop_for\bin\Debug\net5.0\donguler_loop_for.exe
+C:\Users\onurb\patika\donguler_loop_for\bin\Debug\net5.0\donguler_loop_for.deps.json
+C:\Users\onurb\patika\donguler_loop_for\bin\Debug\net5.0\donguler_loop_for.runtimeconfig.json
+C:\Users\onurb\patika\donguler_loop_for\bin\Debug\net5.0\donguler_loop_for.runtimeconfig.dev.json
+C:\Users\onurb\patika\donguler_loop_for\bin\Debug\net5.0\donguler_loop_for.dll
+C:\Users\onurb\patika\donguler_loop_for\bin\Debug\net5.0\ref\donguler_loop_for.dll
+C:\Users\onurb\patika\donguler_loop_for\bin\Debug\net5.0\donguler_loop_for.pdb
+C:\Users\onurb\patika\donguler_loop_for\obj\Debug\net5.0\donguler_loop_for.csproj.AssemblyReference.cache
+C:\Users\onurb\patika\donguler_loop_for\obj\Debug\net5.0\donguler_loop_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurb\patika\donguler_loop_for\obj\Debug\net5.0\donguler_loop_for.AssemblyInfoInputs.cache
+C:\Users\onurb\patika\donguler_loop_for\obj\Debug\net5.0\donguler_loop_for.AssemblyInfo.cs
+C:\Users\onurb\patika\donguler_loop_for\obj\Debug\net5.0\donguler_loop_for.csproj.CoreCompileInputs.cache
+C:\Users\onurb\patika\donguler_loop_for\obj\Debug\net5.0\donguler_loop_for.dll
+C:\Users\onurb\patika\donguler_loop_for\obj\Debug\net5.0\ref\donguler_loop_for.dll
+C:\Users\onurb\patika\donguler_loop_for\obj\Debug\net5.0\donguler_loop_for.pdb
+C:\Users\onurb\patika\donguler_loop_for\obj\Debug\net5.0\donguler_loop_for.genruntimeconfig.cache
