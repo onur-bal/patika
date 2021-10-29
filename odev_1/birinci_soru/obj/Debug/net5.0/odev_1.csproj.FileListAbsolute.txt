@@ -1,0 +1,16 @@
+C:\Users\onurb\patika\odev_1\obj\Debug\net5.0\odev_1.csproj.AssemblyReference.cache
+C:\Users\onurb\patika\odev_1\obj\Debug\net5.0\odev_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurb\patika\odev_1\obj\Debug\net5.0\odev_1.AssemblyInfoInputs.cache
+C:\Users\onurb\patika\odev_1\obj\Debug\net5.0\odev_1.AssemblyInfo.cs
+C:\Users\onurb\patika\odev_1\obj\Debug\net5.0\odev_1.csproj.CoreCompileInputs.cache
+C:\Users\onurb\patika\odev_1\bin\Debug\net5.0\odev_1.exe
+C:\Users\onurb\patika\odev_1\bin\Debug\net5.0\odev_1.deps.json
+C:\Users\onurb\patika\odev_1\bin\Debug\net5.0\odev_1.runtimeconfig.json
+C:\Users\onurb\patika\odev_1\bin\Debug\net5.0\odev_1.runtimeconfig.dev.json
+C:\Users\onurb\patika\odev_1\bin\Debug\net5.0\odev_1.dll
+C:\Users\onurb\patika\odev_1\bin\Debug\net5.0\ref\odev_1.dll
+C:\Users\onurb\patika\odev_1\bin\Debug\net5.0\odev_1.pdb
+C:\Users\onurb\patika\odev_1\obj\Debug\net5.0\odev_1.dll
+C:\Users\onurb\patika\odev_1\obj\Debug\net5.0\ref\odev_1.dll
+C:\Users\onurb\patika\odev_1\obj\Debug\net5.0\odev_1.pdb
+C:\Users\onurb\patika\odev_1\obj\Debug\net5.0\odev_1.genruntimeconfig.cache

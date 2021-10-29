@@ -1,0 +1,16 @@
+C:\Users\onurb\patika\odev_1\ucuncu_soru\obj\Debug\net5.0\ucuncu_soru.csproj.AssemblyReference.cache
+C:\Users\onurb\patika\odev_1\ucuncu_soru\obj\Debug\net5.0\ucuncu_soru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurb\patika\odev_1\ucuncu_soru\obj\Debug\net5.0\ucuncu_soru.AssemblyInfoInputs.cache
+C:\Users\onurb\patika\odev_1\ucuncu_soru\obj\Debug\net5.0\ucuncu_soru.AssemblyInfo.cs
+C:\Users\onurb\patika\odev_1\ucuncu_soru\obj\Debug\net5.0\ucuncu_soru.csproj.CoreCompileInputs.cache
+C:\Users\onurb\patika\odev_1\ucuncu_soru\bin\Debug\net5.0\ucuncu_soru.exe
+C:\Users\onurb\patika\odev_1\ucuncu_soru\bin\Debug\net5.0\ucuncu_soru.deps.json
+C:\Users\onurb\patika\odev_1\ucuncu_soru\bin\Debug\net5.0\ucuncu_soru.runtimeconfig.json
+C:\Users\onurb\patika\odev_1\ucuncu_soru\bin\Debug\net5.0\ucuncu_soru.runtimeconfig.dev.json
+C:\Users\onurb\patika\odev_1\ucuncu_soru\bin\Debug\net5.0\ucuncu_soru.dll
+C:\Users\onurb\patika\odev_1\ucuncu_soru\bin\Debug\net5.0\ref\ucuncu_soru.dll
+C:\Users\onurb\patika\odev_1\ucuncu_soru\bin\Debug\net5.0\ucuncu_soru.pdb
+C:\Users\onurb\patika\odev_1\ucuncu_soru\obj\Debug\net5.0\ucuncu_soru.dll
+C:\Users\onurb\patika\odev_1\ucuncu_soru\obj\Debug\net5.0\ref\ucuncu_soru.dll
+C:\Users\onurb\patika\odev_1\ucuncu_soru\obj\Debug\net5.0\ucuncu_soru.pdb
+C:\Users\onurb\patika\odev_1\ucuncu_soru\obj\Debug\net5.0\ucuncu_soru.genruntimeconfig.cache
