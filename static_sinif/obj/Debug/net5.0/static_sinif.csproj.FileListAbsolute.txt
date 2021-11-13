@@ -1,0 +1,16 @@
+C:\Users\onurb\patika\static_sinif\bin\Debug\net5.0\static_sinif.exe
+C:\Users\onurb\patika\static_sinif\bin\Debug\net5.0\static_sinif.deps.json
+C:\Users\onurb\patika\static_sinif\bin\Debug\net5.0\static_sinif.runtimeconfig.json
+C:\Users\onurb\patika\static_sinif\bin\Debug\net5.0\static_sinif.runtimeconfig.dev.json
+C:\Users\onurb\patika\static_sinif\bin\Debug\net5.0\static_sinif.dll
+C:\Users\onurb\patika\static_sinif\bin\Debug\net5.0\ref\static_sinif.dll
+C:\Users\onurb\patika\static_sinif\bin\Debug\net5.0\static_sinif.pdb
+C:\Users\onurb\patika\static_sinif\obj\Debug\net5.0\static_sinif.csproj.AssemblyReference.cache
+C:\Users\onurb\patika\static_sinif\obj\Debug\net5.0\static_sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurb\patika\static_sinif\obj\Debug\net5.0\static_sinif.AssemblyInfoInputs.cache
+C:\Users\onurb\patika\static_sinif\obj\Debug\net5.0\static_sinif.AssemblyInfo.cs
+C:\Users\onurb\patika\static_sinif\obj\Debug\net5.0\static_sinif.csproj.CoreCompileInputs.cache
+C:\Users\onurb\patika\static_sinif\obj\Debug\net5.0\static_sinif.dll
+C:\Users\onurb\patika\static_sinif\obj\Debug\net5.0\ref\static_sinif.dll
+C:\Users\onurb\patika\static_sinif\obj\Debug\net5.0\static_sinif.pdb
+C:\Users\onurb\patika\static_sinif\obj\Debug\net5.0\static_sinif.genruntimeconfig.cache
