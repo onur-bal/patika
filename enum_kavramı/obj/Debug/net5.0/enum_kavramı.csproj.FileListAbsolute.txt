@@ -1,0 +1,16 @@
+C:\Users\onurb\patika\enum_kavramı\bin\Debug\net5.0\enum_kavramı.exe
+C:\Users\onurb\patika\enum_kavramı\bin\Debug\net5.0\enum_kavramı.deps.json
+C:\Users\onurb\patika\enum_kavramı\bin\Debug\net5.0\enum_kavramı.runtimeconfig.json
+C:\Users\onurb\patika\enum_kavramı\bin\Debug\net5.0\enum_kavramı.runtimeconfig.dev.json
+C:\Users\onurb\patika\enum_kavramı\bin\Debug\net5.0\enum_kavramı.dll
+C:\Users\onurb\patika\enum_kavramı\bin\Debug\net5.0\ref\enum_kavramı.dll
+C:\Users\onurb\patika\enum_kavramı\bin\Debug\net5.0\enum_kavramı.pdb
+C:\Users\onurb\patika\enum_kavramı\obj\Debug\net5.0\enum_kavramı.csproj.AssemblyReference.cache
+C:\Users\onurb\patika\enum_kavramı\obj\Debug\net5.0\enum_kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurb\patika\enum_kavramı\obj\Debug\net5.0\enum_kavramı.AssemblyInfoInputs.cache
+C:\Users\onurb\patika\enum_kavramı\obj\Debug\net5.0\enum_kavramı.AssemblyInfo.cs
+C:\Users\onurb\patika\enum_kavramı\obj\Debug\net5.0\enum_kavramı.csproj.CoreCompileInputs.cache
+C:\Users\onurb\patika\enum_kavramı\obj\Debug\net5.0\enum_kavramı.dll
+C:\Users\onurb\patika\enum_kavramı\obj\Debug\net5.0\ref\enum_kavramı.dll
+C:\Users\onurb\patika\enum_kavramı\obj\Debug\net5.0\enum_kavramı.pdb
+C:\Users\onurb\patika\enum_kavramı\obj\Debug\net5.0\enum_kavramı.genruntimeconfig.cache
